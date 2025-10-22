@@ -1,14 +1,15 @@
-# against empire
+against empire
 
-**against empire** is a studio journal and theoretical manuscript by **tom wilson**. The first edition (October 2025) was produced as part of the Bachelor of Fine Arts at RMIT and documents Wilson’s creative research and thinking in conversation with many collaborators and influences.
+Against Empire is a studio journal and theoretical manuscript by Tom Wilson. The first edition (October 2025) was published by egress media (Naarm/Melbourne) and prepared in the context of RMIT BFA, Year 1—while standing as an independent work.
 
-## About the book
+about the book
+  - collects a semester-length studio journal alongside essays, dialogues, and documentation of works-in-progress and resolved pieces
+  - organises the material across six chapters: Burden, Asymptotia, Virtue, Action, Violence, and Essays
+  - traces practice-led research in conversation with critical theory, linking studio experiments (e.g., Thermal Poem Stack, Asymptotic Copy,     agar/wax studies) to conceptual frames
+  - engages anti-imperialism, colonialism, decolonisation, and institutional critique; invites readers to examine how power is aestheticised      and to consider practical alternatives in art and everyday life
 
-- Combines journal entries, essays, and dialogues that explore anti‑imperialism, colonialism, decolonisation, and radical imagination.
-- Interweaves practice‑based research with theory, documenting the process of developing new work in the studio and classroom.
-- Invites readers to reflect on structures of power and imagine alternatives to empire through art, politics, and everyday life.
-
-This book is released into the commons and may be freely reproduced, distributed, and adapted without attribution or restriction.
+license
+Released into the commons. It may be reproduced, distributed, and adapted without attribution or restriction.
 
 ## Contact
 
